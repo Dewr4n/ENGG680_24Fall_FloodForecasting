@@ -1,0 +1,54 @@
+timestamp
+atmosphericpressure AVG (kPa) 
+humiditysensortemperature AVG (degrees Celsius)
+lightningdistance AVG (km)
+lightningevents (-)
+precipitation (mm)
+radiation AVG (W/m2)
+relativehumidity AVG (-)
+soilelectricalconductivity AVG (mS/cm)
+soilmoisture AVG (m3/m3)
+soil-temperature AVG (degrees Celsius)
+temperature AVG (degrees Celsius)
+temperature MAX (degrees Celsius)
+temperature MIN (degrees Celsius)
+winddirection (degrees)
+windgusts MAX (m/s)
+windspeed AVG (m/s)
+label
+
+时间戳
+
+大气压AVG （kPa）
+
+湿度传感器温度AVG（摄氏度）
+
+雷击距离AVG （km）
+
+闪电事件（-）
+
+降水(毫米)
+
+辐射AVG （W/m2）
+
+相对湿度（-）
+
+土壤电导率AVG （mS/cm）
+
+土壤湿度AVG （m3/m3）
+
+土壤温度AVG（摄氏度）
+
+温度AVG（摄氏度）
+
+最高温度（摄氏度）
+
+温度MIN（摄氏度）
+
+风向（度）
+
+最大风速（m/s）
+
+风速AVG （m/s）
+
+标签
