@@ -1,4 +1,4 @@
-# Deep Learning Approches to Flood Forecasting in Kampala, Uganda 
+# Deep Learning Approaches to Flood Forecasting in Kampala, Uganda 
 ## Group Members
 Mahweer Kumar, Navneet Robin, Jalelle Dinka, Leanne Lane, Dai Wuran, Fre Ashal, De-graft Godwyll, Kwadwo Asare-Menako
 ## Python Libraries
